@@ -1,0 +1,14 @@
+$primaryColor: darkcyan;
+$secondaryColor: darkslategray;
+$colorWhite: #fff;
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+html {
+	font-family: generalFont;
+	font-size: 16px;
+	color: $colorWhite;
+}
